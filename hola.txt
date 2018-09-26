@@ -5,3 +5,4 @@ git add-para agregar el achivo al al stream area el nuevo archivo
 git diff
 git comit-lo agrega al repositorio yse describe lo hecho
 git push-para llevarlo a github en la red
+bueno
